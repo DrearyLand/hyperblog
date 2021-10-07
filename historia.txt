@@ -2,6 +2,6 @@ This is the story of DrearyLand
 
 Dreary is 17 years old and was born on UK
 
-DrearyEmployee is 28 years old and was born on the Internet
+DrearyEmployee is a person who contributes to this open source project and was born on the Internet
 
 Mañana nos enfocaremos en su vida laboral
